@@ -11,3 +11,4 @@ To run this application, you will need to have the following installed on your m
 
 ## Installation
 ### 1. Clone the repository to your local machine using the following command:
+'https://github.com/RajalakshmiR24/Marketplace-Application-with-Blockchain-Technology.git'
